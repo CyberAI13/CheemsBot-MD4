@@ -54,23 +54,23 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['96778639556'] //ur owner number
-global.ownername = "🦄Imasha Pathum🕊️" //ur owner name
-global.ytname = "YT: 𝚂𝙻 𝚃𝙴𝙲𝙷 𝚃𝙸𝙿𝚂" //ur yt chanel name
+global.vcardowner = ['96750915633'] //ur owner number
+global.ownername = "😎 CYBER AI🕊️" //ur owner name
+global.ytname = "YT: Cyber Edits" //ur yt chanel name
 global.socialm = "GitHub: Imashapathum2003" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.location = "Sri Lanka, Colombo, Moratuwa" //ur location
 
 //bot bomdy 
-global.owner = ['94778639556']
-global.ownertag = '94778639556' //ur tag number
-global.botname = 'Lakiya Md' //ur bot name
+global.owner = ['94750915633']
+global.ownertag = '94750915633' //ur tag number
+global.botname = 'Cyber AI Md' //ur bot name
 global.linkz = "https://vt.tiktok.com/ZSRetngaT/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
 global.botscript = 'https://github.com/Imashapathum2003/CheemsBot-MD4' //script link
 global.reactmoji = "🧑‍💻" //ur menu react emoji
 global.themeemoji = "🙋‍♂️" //ur theme emoji
-global.packname = "🧑‍💻 Lakiya Md🕊️ " //ur sticker watermark packname
-global.author = "🦄Imasha Pathum" //ur sticker watermark author
+global.packname = "🧑‍💻 CyberAI Md🕊️ " //ur sticker watermark packname
+global.author = "😎 Cyber AI" //ur sticker watermark author
 
 //Bot theme media
 global.thum = fs.readFileSync("./XeonMedia/theme/cheemspic.jpg") //ur thumb pic
